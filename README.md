@@ -3,7 +3,7 @@
 
 Welcome to mi casa! This is a collection of core Python programs built during my 1st year. 
 
-##  WHATS's INSIDE
+##  WHAT'S INSIDE
 * **`NUMBER_GUESSING_GAME.py`** :An interactive CLI game utilizing Python's random module and loop 
                                  structures to handle user inputs, guess validations, and attempt tracking.
 
